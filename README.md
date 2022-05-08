@@ -1,5 +1,7 @@
 Hi 👋 My name is Adway 
-======================  Full Stack Developer | AR/VR Enthusiast ---------------------------------------  
+
+**Full Stack Developer | AR/VR Enthusiast**
+
 I started my development career in 3rd year of my college where I joined Gotisheel Technologies as an Android Developer Intern. I developed the UI for EzRoadtrips (A travel Intinerary app along with Cab Seat Booking). 
 
 Then later in my college placement I was selected as a Software Engineer at Enquero where I worked as Full stack developer working with Angular and Spring boot.
@@ -7,7 +9,7 @@ Then later in my college placement I was selected as a Software Engineer at Enqu
 I worked with our client Cisco in developing the Partner Administration tool where I developed some key features like Excel uploads, Cascading based Hierarchy search that increased the user base by 32%. 
 Currently I am working at SAP Labs India as a full stack developer in SAP Concur developing new and Cool features for our customers...! 
 
-* 🌍  I'm based in Bengaluru, Karnataka * 
+* 🌍  I'm based in Bengaluru, Karnataka
 * 🖥️  See my portfolio at [Click here to see my portfolio](http://adwayujjwal.netlify.app) 
 * ✉️  You can contact me at [adway.ujjwal@outlook.com](mailto:adway.ujjwal@outlook.com) 
 * 🧠  I'm learning Unreal Engine 5 
