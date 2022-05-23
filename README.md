@@ -1,4 +1,4 @@
-Hi 👋 My name is Adway 
+<h1>Hi 👋 My name is Adway</h1>
 
 **Full Stack Developer | AR/VR Enthusiast**
 
