@@ -1,6 +1,6 @@
 <h1>Hi 👋 My name is Adway</h1>
 
-<h2>Full Stack Developer | AR/VR Enthusiast</h2>
+<h2>Full Stack Developer</h2>
 
 I started my development career in 3rd year of my college where I joined Gotisheel Technologies as an Android Developer Intern. I developed the UI for EzRoadtrips (A travel Intinerary app along with Cab Seat Booking). 
 
