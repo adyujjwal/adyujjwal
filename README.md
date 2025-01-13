@@ -3,7 +3,7 @@
 <h2>Full Stack Developer</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsspfTrsH3bTGbi/giphy.gif" alt="Hello" width="500"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hello" width="500"/>
 </p>
 
 I started my development career in 3rd year of my college where I joined Gotisheel Technologies as an Android Developer Intern. I developed the UI for EzRoadtrips (A travel itinerary app along with Cab Seat Booking). 
@@ -20,7 +20,7 @@ Beyond work, I am deeply passionate about Artificial Intelligence and actively l
 * 🖥️  See my portfolio at [Click here to see my portfolio](http://adwayujjwal.netlify.app) 
 * ✉️  You can contact me at [adway.ujjwal@outlook.com](mailto:adway.ujjwal@outlook.com) 
 * 🧠  I'm learning more about Artificial Intelligence
-* 🤝  I'm open to collaborating on AI, AR, VR, React, Spring Boot, and any other software related topics
+* 🤝  I'm open to collaborating on AI, AR, VR, React, Spring Boot, and Angular
 * ⚡  I love watching and playing football & badminton
 
 ### Skills
@@ -35,7 +35,8 @@ Beyond work, I am deeply passionate about Artificial Intelligence and actively l
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/adyujjwal"><img src="https://github-readme-stats.vercel.app/api?username=adyujjwal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adyujjwal's GitHub stats" /></a>
-<a href="http://www.github.com/adyujjwal"><img src="https://activity-graph.herokuapp.com/graph?username=adyujjwal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="http://www.github.com/adyujjwal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=adyujjwal&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
 
