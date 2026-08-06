@@ -8,6 +8,8 @@
 
 ---
 
+
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
 ## 🧠 About Me
@@ -108,7 +110,7 @@ I'm **Adway** a **Full Stack Developer** at **SAP Labs India** who somehow ended
 
 ## ☕ Fuel My AI Experiments
 
-*Agents don't run on motivation alone — they need cloud credits and I need coffee.*
+*Agents don't run on motivation alone they need cloud credits and I need coffee.*
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/adwayujjwal">
@@ -122,7 +124,7 @@ I'm **Adway** a **Full Stack Developer** at **SAP Labs India** who somehow ended
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-*"The best code is no code — but since we can't get away with that, at least make it agentic."*
+*"The best code is no code but since we can't get away with that, at least make it agentic."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adyujjwal&color=00D9FF&style=flat-square&label=Profile+Views)
 
