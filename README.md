@@ -8,10 +8,11 @@
 
 ---
 
-<div>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-
 ## 🧠 About Me
+
+<table>
+<tr>
+<td valign="top">
 
 I'm **Adway**, a **Full Stack Developer** at **SAP Labs India** who somehow ended up spending half my time convincing LLMs to behave.
 
@@ -20,12 +21,16 @@ I'm **Adway**, a **Full Stack Developer** at **SAP Labs India** who somehow ende
 - 🧬 Teaching LLMs to think in graphs and occasionally arguing with them about the right answer
 - 🏆 Won **Hacks for Innovation** and **Best Innovation Award** *(yes, I put these on my bio)*
 - ⚽ When not coding: football, badminton, or staring at my screen wondering why the agent looped again
-- 📍 Bengaluru, India, where coffee fuels every commit
+- 📍 Bengaluru, India, where chai fuels every commit
 
 > *"I don't always test my code, but when I do... I do it in production."* me, never (okay, once)
 
-<br clear="both"/>
-</div>
+</td>
+<td valign="top" width="320">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,8 +86,8 @@ I'm **Adway**, a **Full Stack Developer** at **SAP Labs India** who somehow ende
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adyujjwal&show_icons=true&count_private=true&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117&hide_border=true&show_icons=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyujjwal&layout=compact&title_color=00D9FF&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=adyujjwal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyujjwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 
 </div>
 
