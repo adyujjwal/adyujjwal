@@ -8,24 +8,24 @@
 
 ---
 
-
-
+<div>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
 ## 🧠 About Me
 
-I'm **Adway** a **Full Stack Developer** at **SAP Labs India** who somehow ended up spending half my time convincing LLMs to behave.
+I'm **Adway**, a **Full Stack Developer** at **SAP Labs India** who somehow ended up spending half my time convincing LLMs to behave.
 
-- 🏢 Day job: Building scalable stuff on **SAP Concur**
-- 🤖 Side quest: Building AI agents with **LangChain** & **LangGraph** *(they mostly listen)*
+- 🏢 Day job: building scalable stuff on **SAP Concur**
+- 🤖 Side quest: building AI agents with **LangChain** and **LangGraph** *(they mostly listen)*
 - 🧬 Teaching LLMs to think in graphs and occasionally arguing with them about the right answer
-- 🏆 Won **Hacks for Innovation** & **Best Innovation Award** *(yes, I put these on my bio)*
+- 🏆 Won **Hacks for Innovation** and **Best Innovation Award** *(yes, I put these on my bio)*
 - ⚽ When not coding: football, badminton, or staring at my screen wondering why the agent looped again
-- 📍 Bengaluru, India where chai fuels every commit
+- 📍 Bengaluru, India, where chai fuels every commit
 
 > *"I don't always test my code, but when I do... I do it in production."* me, never (okay, once)
 
-<br clear="right"/>
+<br clear="both"/>
+</div>
 
 ---
 
@@ -42,7 +42,7 @@ I'm **Adway** a **Full Stack Developer** at **SAP Labs India** who somehow ended
 | 🧩 **RAG Pipelines** | Teach AI things I don't want to memorize myself |
 | 🤖 **AI Agents** | Autonomous bots that do my bidding (theoretically) |
 | 🔗 **Tool Calling** | Give LLMs the ability to Google things, unlike me |
-| 🧠 **Vector DBs** | Postgres / Pinecone — storing knowledge so agents stop hallucinating |
+| 🧠 **Vector DBs** | Postgres / Pinecone, storing knowledge so agents stop hallucinating |
 
 </div>
 
@@ -110,7 +110,7 @@ I'm **Adway** a **Full Stack Developer** at **SAP Labs India** who somehow ended
 
 ## ☕ Fuel My AI Experiments
 
-*Agents don't run on motivation alone they need cloud credits and I need coffee.*
+*Agents don't run on motivation alone. They need cloud credits and I need coffee.*
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/adwayujjwal">
@@ -124,7 +124,7 @@ I'm **Adway** a **Full Stack Developer** at **SAP Labs India** who somehow ended
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-*"The best code is no code but since we can't get away with that, at least make it agentic."*
+*"The best code is no code, but since we can't get away with that, at least make it agentic."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adyujjwal&color=00D9FF&style=flat-square&label=Profile+Views)
 
