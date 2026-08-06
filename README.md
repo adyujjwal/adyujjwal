@@ -27,7 +27,7 @@ I'm **Adway**, a **Full Stack Developer** at **SAP Labs India** who somehow ende
 
 </td>
 <td valign="top" width="380">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" height="300" alt="coding gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" height="360" alt="coding gif"/>
 </td>
 </tr>
 </table>
