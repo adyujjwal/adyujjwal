@@ -26,8 +26,8 @@ I'm **Adway**, a **Full Stack Developer** at **SAP Labs India** who somehow ende
 > *"I don't always test my code, but when I do... I do it in production."* me, never (okay, once)
 
 </td>
-<td valign="top" width="320">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<td valign="top" width="380">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coding gif"/>
 </td>
 </tr>
 </table>
@@ -86,14 +86,13 @@ I'm **Adway**, a **Full Stack Developer** at **SAP Labs India** who somehow ende
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adyujjwal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyujjwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=adyujjwal&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adyujjwal&theme=dark&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adyujjwal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
