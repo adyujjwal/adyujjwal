@@ -12,16 +12,16 @@
 
 ## 🧠 About Me
 
-I'm **Adway** — a **Full Stack Developer** at **SAP Labs India** who somehow ended up spending half my time convincing LLMs to behave.
+I'm **Adway** a **Full Stack Developer** at **SAP Labs India** who somehow ended up spending half my time convincing LLMs to behave.
 
 - 🏢 Day job: Building scalable stuff on **SAP Concur**
 - 🤖 Side quest: Building AI agents with **LangChain** & **LangGraph** *(they mostly listen)*
-- 🧬 Teaching LLMs to think in graphs — and occasionally arguing with them about the right answer
+- 🧬 Teaching LLMs to think in graphs and occasionally arguing with them about the right answer
 - 🏆 Won **Hacks for Innovation** & **Best Innovation Award** *(yes, I put these on my bio)*
 - ⚽ When not coding: football, badminton, or staring at my screen wondering why the agent looped again
-- 📍 Bengaluru, India — where chai fuels every commit
+- 📍 Bengaluru, India where chai fuels every commit
 
-> *"I don't always test my code, but when I do... I do it in production."* — me, never (okay, once)
+> *"I don't always test my code, but when I do... I do it in production."* me, never (okay, once)
 
 <br clear="right"/>
 
