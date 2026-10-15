@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2563EB&height=220&section=header&text=Adway%20Ujjwal&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=58&descSize=17" alt="Adway Ujjwal"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2563EB&height=220&section=header&text=Adway%20Ujjwal&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=58&descSize=17" alt="Adway Ujjwal"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+software+%F0%9F%9A%80;Exploring+AI+and+intelligent+systems+%F0%9F%A4%96;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing animation"/>
 
@@ -27,7 +27,7 @@
 
 I'm Adway, a software engineer who enjoys building scalable applications, reliable backend systems, and AI-powered products.
 
-- 💼 Software Engineer at Walmart Global Tech
+- 💼 Senior Software Engineer at Walmart Global Tech
 - ⚡ Full-stack and backend engineering
 - 🧠 Exploring Generative AI, LLMs, RAG and AI agents
 - 🏗️ Interested in system design and distributed systems
