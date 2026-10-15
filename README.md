@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=adyujjwal&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=adyujjwal&color=2563eb&style=for-the-badge" alt="Profile views"/>
 
 <a href="https://github.com/adyujjwal?tab=followers">
 <img src="https://img.shields.io/github/followers/adyujjwal?style=for-the-badge&logo=github&label=Followers&color=161B22" alt="Followers"/>
@@ -76,7 +76,7 @@ I'm Adway, a software engineer who enjoys building scalable applications, reliab
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=adyujjwal&repo=MockOffer&theme=github_dark&hide_border=true" alt="MockOffer repository card"/>
 </a>
 
-**MockOffer — AI-Powered Mock Coding Interviews**
+### MockOffer — AI-Powered Mock Coding Interviews
 
 Practice coding interviews in a realistic environment, analyze your solutions, and improve with AI-powered feedback.
 
@@ -92,25 +92,12 @@ Practice coding interviews in a realistic environment, analyze your solutions, a
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adyujjwal&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyujjwal&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adyujjwal&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyujjwal&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages"/>
 
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=adyujjwal&theme=github-dark-blue&hide_border=true" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=adyujjwal&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/adyujjwal/adyujjwal/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
 
@@ -131,6 +118,8 @@ Practice coding interviews in a realistic environment, analyze your solutions, a
 <br/><br/>
 
 <i>Build with purpose. Engineer with curiosity.</i>
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:161B22,100:0D1117&height=120&section=footer" alt="Footer"/>
 
